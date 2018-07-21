@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args){
 
-        Person jojo = new Person("Jojo");
+        Person bob = new Person("bob");
 
         Scanner sc = new Scanner(System.in);
 
